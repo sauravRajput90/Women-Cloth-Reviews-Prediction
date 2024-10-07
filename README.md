@@ -1,11 +1,11 @@
-# Women-Cloth-Reviews-Prediction
+# Title of Project: Women Cloth Reviews Prediction with Multi-Nomial Naïve Bayes 
 
   
 
 
 # OVERVIEW OF THE PROJECT
 
-## Title of Project: Women Cloth Reviews Prediction with Multi-Nomial Naïve Bayes  
+
 This project aims to predict the sentiment of women’s clothing reviews using a Multi-Nomial Naïve Bayes classifier. By analyzing customer reviews, we can gain insights into customer satisfaction and preferences, which can help improve product offerings and customer service.  
 
 ## Objectives
